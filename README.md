@@ -7,8 +7,9 @@ const = {
   me = {
   name: 'Deyverson Herrera Valencia',
   age: '20',
+  country: 'Colombia',
   }
-  code: 'JavaScript', 'Php', 'MySQL', 'Html&Css',  
+  tools: 'JavaScript', 'Php', 'MySQL', 'Html&Css', 'React', ''  
 
 }
 
