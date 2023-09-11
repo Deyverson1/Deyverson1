@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 About Me:
-```
+```ruby
 
 const = {
   me: {
