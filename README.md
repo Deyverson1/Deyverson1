@@ -1,6 +1,6 @@
 ##  🚀 Hi there, I'm Deyverson 
 
-En este perfil, encontrarás una variedad de proyectos desarrollados utilizando diversas herramientas de desarrollo y programación.
+In this profile, you will find a variety of projects developed using various development and programming tools.
 
 ```php
 
@@ -14,6 +14,6 @@ const Deyverson = {
 };
 
 ```
-## Puedes contactarme mediante:
+## You can contact me through:
 -  You can found me here 📷[Instagram](https://www.instagram.com/its_deyverson/) && 💬[Linkedin](www.linkedin.com/in/deyverson)
 
