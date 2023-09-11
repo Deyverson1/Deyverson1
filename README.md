@@ -15,5 +15,5 @@ const Deyverson = {
 
 ```
 ## Puedes contactarme mediante:
--  You can found me here 📷[Instagram](https://www.instagram.com/its_deyverson/)
+-  You can found me here 📷[Instagram](https://www.instagram.com/its_deyverson/) [Linkedin](www.linkedin.com/in/deyverson)
 
