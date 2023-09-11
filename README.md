@@ -6,11 +6,10 @@ About Me:
 const = {
   me = {
   name: 'Deyverson Herrera Valencia',
-  age: '20',
   country: 'Colombia',
+  age: '20',
   }
-  tools: 'JavaScript', 'Php', 'MySQL', 'Html&Css', 'React', ''  
-
+  tools: 'JavaScript', 'Php', 'MySQL', 'Html&Css', 'React', 'Node'  
 }
 
 ```
