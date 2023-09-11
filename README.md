@@ -4,7 +4,10 @@ About Me:
 ```
 
 const = {
-  me: 
+  me: {
+  name: 'Deyverson Herrera Valencia',
+  age: '20',
+  }
 
 }
 
