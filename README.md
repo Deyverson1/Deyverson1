@@ -11,6 +11,7 @@ const Deyverson = {
     age: 20,
   },
   learning: ['JavaScript', 'Php', 'MySQL', 'Html&Css', 'React', 'Node'],
+  soon: ['Python', 'Oracle Cloud'],
 };
 
 ```
