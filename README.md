@@ -4,14 +4,14 @@ In this profile, you will find a variety of projects developed using various dev
 
 ```php
 
-const Deyverson = {
+let Deyverson = {
   me: {
     name: 'Deyverson Herrera Valencia',
     country: 'Colombia',
     age: 20,
   },
-  learning: ['JavaScript', 'Php', 'MySQL', 'Html&Css', 'React', 'Node'],
-  soon: ['Python', 'Oracle Cloud'],
+  learning: ['JavaScript', 'React', 'MySQL', 'Html&Css', 'Php', 'Svelte', 'Node'],
+  soon: ['Python', 'Astro', 'Tailwind'],
 };
 
 ```
