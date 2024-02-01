@@ -10,8 +10,8 @@ let Deyverson = {
     country: 'Colombia',
     age: 20,
   },
-  learning: ['JavaScript', 'React', 'MySQL', 'Html&Css', 'Php', 'Svelte', 'Node'],
-  soon: ['Python', 'Astro', 'Tailwind'],
+  learning: ['JavaScript', 'React', 'Astro',  'Svelte', 'Tailwind', 'MySQL', 'Php', 'Node'],
+  soon: ['Python'],
 };
 
 ```
