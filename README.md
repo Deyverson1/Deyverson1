@@ -14,7 +14,7 @@ let Deyverson = {
     age: 20,
   },
   learning: ['JavaScript', 'TypeScript', 'React', 'Astro', 'Svelte', 'Tailwind', 'MySQL', 'Php', 'Node'],
-  soon: ['Python', 'Laravel', 'Express JS'],
+  soon: ['NextJS', 'ExpressJS', 'Python', 'Laravel'],
 };
 
 ```
