@@ -5,11 +5,6 @@ I'm a 20 year old programmer and web developer from Cali, Colombia 🇨🇴.
 Currently studying Industrial Mechatronics and Web development, 6th semester 📖.
 
 In this profile, you will find a variety of projects developed using various Development and programming tools.
-<div style="display: flex; flex-direction: column; padding-bottom: 20px;">
-  You can see my personal portfolio here: 
-  <a href="https://portfolio-deyverson-astro.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-
-</div>
 
 ```php
 
@@ -29,7 +24,7 @@ let Deyverson = {
 <div style="display: flex; justify-content: space-around;">
     <a href="https://www.linkedin.com/in/deyverson/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://www.instagram.com/deyverson08/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-
+<a href="https://portfolio-deyverson-astro.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 <!--   <a href=""><img src="" /></a> -->
   
 </div>
