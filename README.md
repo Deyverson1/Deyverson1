@@ -23,5 +23,6 @@ let Deyverson = {
 };
 
 ```
+![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ## You can contact me through:
 -  You can found me here 📷[Instagram](https://www.instagram.com/its_deyverson/) && 💬[Linkedin](www.linkedin.com/in/deyverson)
