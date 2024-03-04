@@ -1,6 +1,10 @@
-##  🚀 Hi there, I'm Deyverson 
+##  🐺 Hi there, I'm Deyverson 
 
-In this profile, you will find a variety of projects developed using various development and programming tools.
+I'm a 20 year old programmer and web developer from Cali, Colombia 🇨🇴.
+
+Currently studying Industrial Mechatronics and Web development, 6th semester 📖.
+
+In this profile, you will find a variety of projects developed using various Development and programming tools.
 
 You can see my personal portfolio here:
 [Portfolio](https://portfolio-deyverson-astro.vercel.app/)
