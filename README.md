@@ -23,7 +23,6 @@ let Deyverson = {
 };
 
 ```
-<a href="https://www.linkedin.com/in/deyverson/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-## You can contact me through:
--  You can found me here 📷[Instagram](https://www.instagram.com/its_deyverson/) && 💬[Linkedin](www.linkedin.com/in/deyverson)
+<a href="https://www.linkedin.com/in/deyverson/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<a href="https://www.instagram.com/deyverson08/"><img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
