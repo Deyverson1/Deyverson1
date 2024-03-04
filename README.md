@@ -14,7 +14,7 @@ let Deyverson = {
     country: 'Colombia',
     age: 20,
   },
-  code: [JavaScript, TypeScript, Astro,  MySQL, HTML, CSS, Php,],
+  code: [JavaScript, TypeScript, Astro, MySQL, HTML, CSS, Php,],
   tools: [React, Svelte, Tailwind, NodeJS]
   soon: [NextJS, ExpressJS, Python, Laravel],
 };
