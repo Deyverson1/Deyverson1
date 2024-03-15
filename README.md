@@ -12,6 +12,7 @@ let Deyverson = {
   me: {
     name: 'Deyverson Herrera Valencia',
     country: 'Colombia',
+    city: 'Cali',
     age: 20,
   },
   code: [JavaScript, TypeScript, Astro, MySQL, HTML, CSS, Php,],
