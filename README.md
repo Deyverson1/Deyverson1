@@ -4,21 +4,15 @@ I'm a 20 year old programmer and web developer from Cali, Colombia 🇨🇴.
 
 Currently studying Industrial Mechatronics and Web development, 6th semester 📖.
 
-In this profile, you will find a variety of projects developed using various Development and programming tools.
-
 ```php
 
 let Deyverson = {
-  me: {
-    name: 'Deyverson Herrera Valencia',
-    country: 'Colombia',
-    city: 'Cali',
-    age: 20,
-  },
-  code: [JavaScript, TypeScript, Astro, MySQL, HTML, CSS, Php,],
-  tools: [React, Svelte, Tailwind, NodeJS]
-  soon: [NextJS, ExpressJS, Python, Laravel],
+  code: ['JavaScript', 'TypeScript', 'Astro', 'MySQL', 'HTML', 'CSS', 'Php'],
+  tools: ['ReactJS', 'Svelte', 'TailwindCSS', 'NodeJS'],
+  soon: ['NextJS', 'ExpressJS', 'Python', 'Laravel'],
+  operatingSystems: ['Linux', 'Windows'],
 };
+
 
 ```
 
