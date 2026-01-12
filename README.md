@@ -1,8 +1,8 @@
 ##  🐺 Hi there, I'm Deyverson 
 
-I'm a 21 year old programmer and web developer from Cali, Colombia 🇨🇴.
+I'm a 22 year old programmer and web developer from Cali, Colombia 🇨🇴.
 
-Currently studying Industrial Mechatronics and Web development, 7th semester 📖.
+Technologist in Mechatronics and studying Web development.
 
 ```php
 
